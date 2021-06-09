@@ -1,0 +1,6 @@
+Data Analysis Process:
+    1) Data Extraction
+    2) Data Cleaning 
+    3) Data Wrangling
+    4) Analysis
+    5) Action
